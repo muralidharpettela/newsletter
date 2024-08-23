@@ -1,0 +1,32 @@
+.unsubscribe-card {
+    max-width: 400px;
+    width: 100%;
+
+}
+
+.p-field.p-grid {
+    margin: 0;  /* Remove extra margin from grid */
+}
+
+.p-float-label {
+    width: 100%;
+}
+
+.p-col-9 .p-float-label {
+    margin-right: 1rem;  /* Adjust margin between input and button */
+}
+
+.p-col-3 .p-button-sm {
+    width: 100%;  /* Make button take full width */
+
+}
+
+.p-inputtext-sm {
+    height: 38px; /* Adjust the height to match the button */
+
+}
+
+.p-button-sm {
+    height: 38px; /* Ensure button height matches input height */
+
+}
